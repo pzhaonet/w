@@ -1,6 +1,6 @@
 +++
 title = "test"
-video_mp4 = "video/test.mp4"
+video_mp4 = "/video/test.mp4"
 +++
 
 <video controls>

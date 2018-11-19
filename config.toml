@@ -1,5 +1,5 @@
 # Site settings (baseurl must end with a trailing slash!)
-baseurl = "https://zhaopian.netlify.com"
+baseurl = "https://zhaopian.netlify.com/"
 # baseurl = "/"
 languageCode = "en-us"
 title = "Wings of the Wind"
@@ -67,7 +67,7 @@ SectionPagesMenu = "Main"
         # email = 'pzhao.org'
 
         # Not providing this results in a color being used
-        image = "cover/main.jpg"
+        image = "/cover/main.jpg"
 
         # This uses the CSS background-position, given the image above is set,
         # useful when you want to adjust where the background-image lands
@@ -93,7 +93,7 @@ SectionPagesMenu = "Main"
         #
         [[Params.Footer.List]]
             icon_class = "github"
-            icon_link = "https://github.com/pzhaonet/ww"
+            icon_link = "https://github.com/pzhaonet/w"
 
     #
     # Contains the Cells representing the sections of your website. Each cell
@@ -119,7 +119,7 @@ SectionPagesMenu = "Main"
 
             name = "Photo"
             link = "photo/"
-            image = "cover/photo.jpg"
+            image = "/cover/photo.jpg"
 
         [[Params.Cells.List]]
 
@@ -130,7 +130,7 @@ SectionPagesMenu = "Main"
             link = "video/"
 
             # The image to use as a background-image for the cell
-            image = "cover/video.jpeg"
+            image = "/cover/video.jpeg"
 
             # This uses the CSS background-position, given the image above is
             # set, useful when you want to adjust where the background-image

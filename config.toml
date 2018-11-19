@@ -1,5 +1,5 @@
 # Site settings (baseurl must end with a trailing slash!)
-baseurl = "https://zhaopian.netlify.com/"
+baseurl = "https://zhaopian.netlify.com"
 # baseurl = "/"
 languageCode = "en-us"
 title = "Wings of the Wind"

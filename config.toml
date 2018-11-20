@@ -4,7 +4,7 @@ baseurl = "https://zhaopian.netlify.com/"
 languageCode = "en-us"
 title = "Wings of the Wind"
 theme = "grid-side"
-copyright = "&#169; [Peng Zhao](<http://www.pzhao.org/zh/>) All rights reserved."
+copyright = "Many Thanks to [R blogdown](https://bookdown.org/yihui/blogdown/), [Hugo](https://gohugo.io/), [Grid Side Theme](https://themes.gohugo.io//theme/grid-side/)."
 
 # The theme uses pagination for post, gallery, and project listings.
 #paginate = 12
@@ -157,3 +157,23 @@ SectionPagesMenu = "Main"
             #disable = true
 
 
+     [[Params.Cells.List]]
+name = "CITY"
+link = "city/"
+image = "/cover/city.jpg"
+     [[Params.Cells.List]]
+name = "FUN"
+link = "fun/"
+image = "/cover/fun.jpg"
+     [[Params.Cells.List]]
+name = "LANDSCAPE"
+link = "landscape/"
+image = "/cover/landscape.jpg"
+     [[Params.Cells.List]]
+name = "PEOPLE"
+link = "people/"
+image = "/cover/people.jpg"
+     [[Params.Cells.List]]
+name = "STORY"
+link = "story/"
+image = "/cover/story.jpg"

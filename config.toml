@@ -139,7 +139,6 @@ SectionPagesMenu = "Main"
             # Grays out the cell and disables click functionality on it
             #disable = true
 
-
      [[Params.Cells.List]]
 name = "CITY"
 link = "city/"
@@ -157,27 +156,14 @@ name = "STORY"
 link = "story/"
 image = "/cover/story.jpg"
 
-
-        [[Params.Cells.List]]
-
-            # The name to use with the cell, shows up on hover
-            name = "VIDEO"
-
-            # The link to associate with the cell, used when clicked
-            link = "video/"
-
-            # The image to use as a background-image for the cell
-            image = "/cover/video.jpeg"
+     [[Params.Cells.List]]
+name = "VIDEO"
+link = "video/"
+image = "/cover/video.jpeg"
             
-        [[Params.Cells.List]]
-
-            # The name to use with the cell, shows up on hover
-            name = "AUDIO"
-
-            # The link to associate with the cell, used when clicked
-            link = "audio/"
-
-            # The image to use as a background-image for the cell
-            image = "/cover/audio.jpg"
+     [[Params.Cells.List]]
+name = "AUDIO"
+link = "audio/"
+image = "/cover/audio.jpg"
             
             

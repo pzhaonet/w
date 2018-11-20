@@ -117,14 +117,8 @@ SectionPagesMenu = "Main"
 
         [[Params.Cells.List]]
 
-            name = "Photo"
-            link = "photo/"
-            image = "/cover/photo.jpg"
-
-        [[Params.Cells.List]]
-
             # The name to use with the cell, shows up on hover
-            name = "Videos"
+            name = "VIDEO"
 
             # The link to associate with the cell, used when clicked
             link = "video/"

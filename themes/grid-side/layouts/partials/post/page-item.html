@@ -10,6 +10,7 @@
             {{ end }}
             <h2 class="page-item-title">{{ .Title }}</h2>
         </header>
+					{{ partial "extra/video.html" . }}
         <p class="page-item-summary">{{ .Summary }}</p>
         <a href="{{ .Permalink }}" class="page-item-btn {{ if .Params.redirect }}page-item-btn-red{{ end }}">
             {{ if .Params.redirect }}Redirect{{ else }}Read More{{ end }}
@@ -18,6 +19,7 @@
             {{ partial "extra/categories.html" . }}
             <span class="separator">|</span>
             {{ partial "extra/tags.html" . }}
+
         </footer>
     </div>
 </div>

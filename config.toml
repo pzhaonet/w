@@ -145,10 +145,6 @@ name = "CITY"
 link = "city/"
 image = "/cover/city.jpg"
      [[Params.Cells.List]]
-name = "FUN"
-link = "fun/"
-image = "/cover/fun.jpg"
-     [[Params.Cells.List]]
 name = "LANDSCAPE"
 link = "landscape/"
 image = "/cover/landscape.jpg"

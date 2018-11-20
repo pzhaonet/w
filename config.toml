@@ -2,7 +2,7 @@
 baseurl = "https://zhaopian.netlify.com/"
 # baseurl = "/"
 languageCode = "en-us"
-title = "Wings of the Wind"
+title = "wow"
 theme = "grid-side"
 copyright = "Many Thanks to [R blogdown](https://bookdown.org/yihui/blogdown/), [Hugo](https://gohugo.io/), [Grid Side Theme](https://themes.gohugo.io//theme/grid-side/)."
 
@@ -115,17 +115,6 @@ SectionPagesMenu = "Main"
     #
     [Params.Cells]
 
-        [[Params.Cells.List]]
-
-            # The name to use with the cell, shows up on hover
-            name = "VIDEO"
-
-            # The link to associate with the cell, used when clicked
-            link = "video/"
-
-            # The image to use as a background-image for the cell
-            image = "/cover/video.jpeg"
-
             # This uses the CSS background-position, given the image above is
             # set, useful when you want to adjust where the background-image
             # lands
@@ -171,3 +160,28 @@ image = "/cover/people.jpg"
 name = "STORY"
 link = "story/"
 image = "/cover/story.jpg"
+
+
+        [[Params.Cells.List]]
+
+            # The name to use with the cell, shows up on hover
+            name = "VIDEO"
+
+            # The link to associate with the cell, used when clicked
+            link = "video/"
+
+            # The image to use as a background-image for the cell
+            image = "/cover/video.jpeg"
+            
+        [[Params.Cells.List]]
+
+            # The name to use with the cell, shows up on hover
+            name = "AUDIO"
+
+            # The link to associate with the cell, used when clicked
+            link = "audio/"
+
+            # The image to use as a background-image for the cell
+            image = "/cover/audio.jpg"
+            
+            

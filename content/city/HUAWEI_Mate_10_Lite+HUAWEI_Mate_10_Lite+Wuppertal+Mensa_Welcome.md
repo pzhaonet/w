@@ -1,0 +1,5 @@
++++
+title = "Wuppertal. HUAWEI Mate 10 Lite, 2018-10-05. Camera: HUAWEI Mate 10 Lite."
+date = "2018-10-05"
+image = "/city/HUAWEI_Mate_10_Lite+HUAWEI_Mate_10_Lite+Wuppertal+Mensa_Welcome.jpg"
++++

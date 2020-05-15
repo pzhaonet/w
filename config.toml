@@ -1,8 +1,8 @@
 # Site settings (baseurl must end with a trailing slash!)
-baseurl = "https://media.pzhao.org/"
+baseurl = "https://gallery.pzhao.org/"
 # baseurl = "/"
 languageCode = "en-us"
-title = "wow"
+title = "Peng Zhao's Gallery"
 theme = "grid-side"
 copyright = "Copyright &#169; [Peng Zhao](https://pzhao.org) All rights reserved. [&#9993;](mailto:pzhao@pzhao.net)"
 
@@ -61,7 +61,7 @@ SectionPagesMenu = "Main"
         name = "Wings of the Wind"
 
         # This is optional
-        description = "dapeng's gallery"
+        description = "Peng Zhao's Gallery"
 
         # This is optional
         # email = 'pzhao.org'
@@ -93,7 +93,7 @@ SectionPagesMenu = "Main"
         #
         [[Params.Footer.List]]
             icon_class = "github"
-            icon_link = "https://github.com/pzhaonet/w"
+            icon_link = "https://github.com/pzhaonet/gallery"
 
     #
     # Contains the Cells representing the sections of your website. Each cell
